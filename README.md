@@ -1,4 +1,5 @@
-# Урок 2.2. Selenide [![Build status](https://ci.appveyor.com/api/projects/status/6bwrapeyku53j52n?svg=true)](https://ci.appveyor.com/project/kuroifreya/l2-2-cardorder-selenid)
+# Урок 2.2. Selenide [![Build status](https://ci.appveyor.com/api/projects/status/ry59njmnf2w6d93a?svg=true)](https://ci.appveyor.com/project/kuroifreya/l2-2-carddelivery-selenid)
+
 
 
 
