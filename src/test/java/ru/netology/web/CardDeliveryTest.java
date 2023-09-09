@@ -110,7 +110,7 @@ class CardDeliveryTest {
         form.$("[data-test-id=name] .input__sub").shouldHave(exactText("Имя и Фамилия указаные неверно. Допустимы только русские буквы, пробелы и дефисы."));
     }
 
-   /* @Test
+    @Test
     void shouldNotAcceptIncorrectPhone(){//тест на телефон
         String appointmentDay = formDate (3);
 
@@ -123,7 +123,7 @@ class CardDeliveryTest {
         form.$(new ByText("Запланировать")).click();
 
         form.$("[data-test-id=phone] .input__sub").shouldHave(exactText("Номер указан неверно. Укажите телефон в международном формате: он содержит 11 цифр"));
-    }*/
+    }
 
     @Test
     void shouldNotProceedWithUncheckedBox(){//Тест на отжатую галочку согласия с условиями

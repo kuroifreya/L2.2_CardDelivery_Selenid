@@ -7,3 +7,4 @@
 
 #### Полезные материалы:
 - Selenide API https://ru.selenide.org/documentation.html
+- CSS Selectors https://github.com/netology-code/aqa-homeworks/blob/master/web/selectors.md
